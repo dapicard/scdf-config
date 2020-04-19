@@ -1,2 +1,3 @@
 jdbc:
-  columns: "id,id_fantoir,numero,rep,nom_voie,code_postal,code_insee,nom_commune,code_insee_ancienne_commune,nom_ancienne_commune,lon,lat,alias,nom_ld,libelle_acheminement,nom_afnor,source_position,source_nom_voie"
+  table-name: adresse
+  columns: "id,id_fantoir,numero,rep,nom_voie,code_postal,code_insee,nom_commune,lon,lat,alias,nom_ld"
